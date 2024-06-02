@@ -1,5 +1,9 @@
 Database name: restapi
 
+	Database: 
+
+CREATE DATABASE `restapi` /*!40100 DEFAULT CHARACTER SET utf8mb4 */
+
 Table code: 
 
 CREATE TABLE `users` (
